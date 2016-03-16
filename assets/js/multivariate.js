@@ -18,7 +18,7 @@ var Shanghai = [{"id":"2005","stats":[{"name":"coal","value":53245200},{"name":"
 
 // Set ourArray to the data you'd like to use for this experiment, and title your chart to match
 var ourArray = Beijing;
-$('h4.bar-chart-title').text('Fuel consumption in Beijing, 2005-2012');
+$('h4.bar-chart-title').text('Fuel consumption (tons) in Beijing, 2005-2012');
 
 
 
